@@ -1,0 +1,7 @@
+.icon {
+    text-rendering: geometricPrecision !important;
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+    color: #000;
+  }
